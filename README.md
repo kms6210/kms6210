@@ -11,10 +11,10 @@
 ##### Language
 
 - Strong: 
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />,
-<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Conda-Forge&logoColor=white" />,
-<img src="https://img.shields.io/badge/JavaScript-007396?style=flat&logo=Conda-Forge&logoColor=white" />,
-<img src="https://img.shields.io/badge/SQL-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-41454A?style=flat&logo=Conda-Forge&logoColor=white" />, 
+<img src="https://img.shields.io/badge/Python-41454A?style=flat&logo=Conda-Forge&logoColor=white" />, 
+<img src="https://img.shields.io/badge/JavaScript-41454A?style=flat&logo=Conda-Forge&logoColor=white" />, 
+<img src="https://img.shields.io/badge/SQL-41454A?style=flat&logo=Conda-Forge&logoColor=white" />
 - Intermediate: C++, C, R, MATLAB
 
 
