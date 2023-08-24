@@ -4,6 +4,7 @@
 - 📚 I’m majoring in Civil and Environment Engineering at SNU, and will graduate soon.
 - 💬 How to reach me: kms2786210@naver.com
 
+<hr>
 
 <!--
 **kms6210/kms6210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
