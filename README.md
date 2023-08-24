@@ -10,13 +10,13 @@
 
 ##### Language
 
-- Strong: 
+- Strong : 
 <img src="https://img.shields.io/badge/Java-41454A?style=flat&logo=Conda-Forge&logoColor=white" />, 
 <img src="https://img.shields.io/badge/Python-41454A?style=flat&logo=Conda-Forge&logoColor=white" />, 
 <img src="https://img.shields.io/badge/JavaScript-41454A?style=flat&logo=Conda-Forge&logoColor=white" />, 
 <img src="https://img.shields.io/badge/SQL-41454A?style=flat&logo=Conda-Forge&logoColor=white" />
 
-- Intermediate: 
+- Intermediate : 
 <img src="https://img.shields.io/badge/C++-41454A?style=flat&logo=Conda-Forge&logoColor=white" />, 
 <img src="https://img.shields.io/badge/C-41454A?style=flat&logo=Conda-Forge&logoColor=white" />, 
 <img src="https://img.shields.io/badge/R-41454A?style=flat&logo=Conda-Forge&logoColor=white" />, 
