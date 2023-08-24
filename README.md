@@ -17,7 +17,7 @@
 ##### Framework
 
 - Strong: Spring
-- Intermediate: React PyTorch scikit-learn pandas
+- Intermediate: React, PyTorch, scikit-learn, pandas
 
 
 <!--
