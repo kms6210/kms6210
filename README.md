@@ -8,17 +8,15 @@
 
 ### 📚 Skills
 
-## 프로젝트 소개
-<br>
+# Language
+
 - Strong: Java, Python, JavaScript, SQL
-<br>
 - Intermediate: C++, C, R, MATLAB
 
 
-## 프로젝트 소개
-<br>
+# Framework
+
 - Strong: Spring
-<br>
 - Intermediate: React PyTorch scikit-learn pandas
 
 
