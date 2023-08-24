@@ -6,6 +6,18 @@
 
 <hr>
 
+### 📚 Skills
+
+<br>
+## Language
+- Strong: Java, Python, JavaScript, SQL
+- Intermediate: C++, C, R, MATLAB
+
+<br>
+## Framework
+- Strong: Spring
+- Intermediate: React PyTorch scikit-learn pandas
+
 <!--
 **kms6210/kms6210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
