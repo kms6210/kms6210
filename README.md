@@ -9,12 +9,12 @@
 ### 📚 Skills
 
 <br>
-### Language
+## Language
 - Strong: Java, Python, JavaScript, SQL
 - Intermediate: C++, C, R, MATLAB
 
 <br>
-### Framework
+## Framework
 - Strong: Spring
 - Intermediate: React PyTorch scikit-learn pandas
 
