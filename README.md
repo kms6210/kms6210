@@ -11,6 +11,8 @@
 ##### Language
 
 - Strong :
+<img src="https://img.shields.io/badge/Java-41454A?style=flat&logo=Conda-Forge&logoColor=white" /><img src="https://img.shields.io/badge/Python-41454A?style=flat&logo=Conda-Forge&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-41454A?style=flat&logo=Conda-Forge&logoColor=white" /><img src="https://img.shields.io/badge/SQL-41454A?style=flat&logo=Conda-Forge&logoColor=white" />
+  
 <div align="left">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
