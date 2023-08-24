@@ -9,14 +9,14 @@
 ### 📚 Skills
 
 <br>
-## 🔭 Language
+## 프로젝트 소개
 <br>
 - Strong: Java, Python, JavaScript, SQL
 <br>
 - Intermediate: C++, C, R, MATLAB
 
 <br>
-## 🔭 Framework
+## 프로젝트 소개
 <br>
 - Strong: Spring
 <br>
