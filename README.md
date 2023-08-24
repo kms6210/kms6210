@@ -9,14 +9,14 @@
 ### 📚 Skills
 
 <br>
-## Language
+## 🔭 Language
 <br>
 - Strong: Java, Python, JavaScript, SQL
 <br>
 - Intermediate: C++, C, R, MATLAB
 
 <br>
-## Framework
+## 🔭 Framework
 <br>
 - Strong: Spring
 <br>
