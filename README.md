@@ -4,16 +4,17 @@
 - 📚 I’m majoring in Civil and Environment Engineering at SNU, and will graduate soon.
 - 💬 How to reach me: kms2786210@naver.com
 
+<hr>
+
 ### 📚 Skills
 
-<br>
 ## 프로젝트 소개
 <br>
 - Strong: Java, Python, JavaScript, SQL
 <br>
 - Intermediate: C++, C, R, MATLAB
 
-<br>
+
 ## 프로젝트 소개
 <br>
 - Strong: Spring
