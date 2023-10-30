@@ -1,6 +1,5 @@
 ### Thank you for visiting my profile! 👋
 
-😄 My portfolio : https://kms6210.github.io/
 
 - 🌱 I’m currently learning Computer Science and Engineering at Seoul National University.
 - 📚 I’m majoring in Civil and Environment Engineering at SNU, and will graduate soon.
