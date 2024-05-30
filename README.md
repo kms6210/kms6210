@@ -1,5 +1,3 @@
-# [노션 포트폴리오](https://global-infinity-cc4.notion.site/95d6f1b1252c42c885ebf12961446bca)
-
 ### Thank you for visiting my profile! 👋
 - 🌱 I’m currently learning Computer Science and Engineering at Seoul National University.
 - 📚 I’m majoring in Civil and Environment Engineering at SNU, and will graduate soon.
